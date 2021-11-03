@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/leo-at-itartpro/leo-at-itartpro/4f03566749dec28cafb5ff72427359fa8c2b3120/devcard.svg" width="280" alt="DevCard">
-1094-0F96-5B67-75BE промокод REG.RU
-<a href="https://reg.ru?rlink=reflink-790993">Регистрация домена</a>
-<a href="https://billing.lite-host.in/aff.php?aff=721">Регистрация хостинга</a>
+1094-0F96-5B67-75BE промокод REG RU<br>
+<a href="https://reg.ru?rlink=reflink-790993">Регистрация домена</a><br>
+<a href="https://billing.lite-host.in/aff.php?aff=721">Регистрация хостинга</a><br>
